@@ -1,1 +1,2 @@
-String = 'This is the additonal file to be pushed to GITHUB'
+String = 'This is a new file to be pushed to GITHUB'
+string_1 = 'Additional line to check the behavior of pull'
